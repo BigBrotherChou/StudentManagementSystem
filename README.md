@@ -1,0 +1,2 @@
+# StudentManagementSystem
+大学c语言写的学生信息管理系统 纯粹的文件读写 希望对c语言初学者有所帮助
